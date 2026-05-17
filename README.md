@@ -135,4 +135,5 @@ This project focuses on:
 ## Vishwanath PH
 
 - GitHub: https://github.com/vish-git
-- LinkedIn: https://www.linkedin.com/vishwanath-ph
+- LinkedIn: [https://www.linkedin.com/vishwanath-ph](https://www.linkedin.com/in/vishwanath-ph/)
+- 
